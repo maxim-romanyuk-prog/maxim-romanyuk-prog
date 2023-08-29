@@ -1,23 +1,22 @@
-<h1 align="center">Hi 👋, I'm Maks</h1>
-<h3 align="center">A passionate frontend developer from UA</h3>
+Hi 👋 My name is Maks
+=====================
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **JS**<br><br>- 👨‍💻 All of my projects are available at (#Portfolio link#)<br><br>- 📫 How to reach me: <a href='https://t.me/Maksym_RomaniUA'>telegram</a>, <a href='http://www.instagram.com/maks_romanukm'>instagram</a>, <a href='maximromanyukprog@gmail.com'>gmail</a>.
 
-- 👨‍💻 All of my projects are available at (#Portfolio link#)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+# 📊 GitHub Stats:
 
-- 📫 How to reach me **maximromanyukprog@gmail.com**
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maks&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
+## 🔗 Links
 
-<p align="left">
-</p>
+[![Telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Maksym_RomaniUA)
 
-<h3 align="left">Languages and Tools:</h3>
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=Maks&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
