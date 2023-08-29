@@ -8,15 +8,3 @@ Hi 👋 My name is Maks
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxim-romanyuk-prog&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🔗 Links
-
-[![Telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Maksym_RomaniUA)
-
----
-[![](https://visitcount.itsvg.in/api?id=Maks&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
